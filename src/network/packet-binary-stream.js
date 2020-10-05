@@ -16,7 +16,6 @@ const SkinPersona = require('../utils/skin/skin-persona/persona')
 const SkinPersonaPieceTintColor = require('../utils/skin/skin-persona/piece-tint-color')
 const LOGGER = require('../utils/logger')
 
-'use strict'
 
 class PacketBinaryStream extends BinaryStream {
 

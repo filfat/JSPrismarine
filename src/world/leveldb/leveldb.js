@@ -10,7 +10,6 @@ const SubChunk = require('../chunk/sub-chunk')
 const logger = require('../../utils/logger')
 const { type } = require('os')
 
-'use strict'
 
 const Tags = {
     Version: 'v',

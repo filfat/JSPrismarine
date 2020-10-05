@@ -1,3 +1,5 @@
+'use strict'
+
 const fs = require('fs')
 const readline = require('readline')
 const path = require('path')
@@ -6,7 +8,6 @@ const Prismarine = require('./src/prismarine')
 const logger = require('./src/utils/logger')
 const ConsoleSender = require('./src/command/console-sender')
 
-'use strict'
 
 // TODO: read config
 

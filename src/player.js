@@ -29,7 +29,6 @@ const DisconnectPacket = require('./network/packet/disconnect-packet')
 const Device = require('./utils/device')
 const World = require('./world/world')
 
-'use strict'
 
 class Player extends Entity {
 

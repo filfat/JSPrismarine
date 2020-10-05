@@ -1,6 +1,5 @@
 const BinaryStream = require("jsbinaryutils")
 
-'use strict'
 
 class UUID {
 

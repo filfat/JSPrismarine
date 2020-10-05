@@ -4,7 +4,6 @@ const DataPacket = require("./packet")
 const BinaryStream = require('jsbinaryutils')
 const PacketBinaryStream = require('../packet-binary-stream')
 
-'use strict'
 
 class BatchPacket extends DataPacket {
     static NetID = 0xfe

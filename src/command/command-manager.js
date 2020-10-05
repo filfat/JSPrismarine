@@ -15,7 +15,6 @@ const ListCommand = require('./vanilla/list-command')
 const VersionCommand = require('./vanilla/version-command')
 const PluginsCommand = require('./vanilla/plugins-command')
 
-'use strict'
 
 class CommandManager {
 

@@ -1,7 +1,6 @@
 const CommandData = require('../network/type/command-data')
 
 
-'use strict'
 
 class Command extends CommandData {
 

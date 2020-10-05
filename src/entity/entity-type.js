@@ -1,4 +1,3 @@
-'use strict'
 
 // TODO: add all identifiers
 const EntityType = {

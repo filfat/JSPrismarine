@@ -4,7 +4,6 @@ const Experimental = require('./experimental/experimental')
 const LevelDB = require('./leveldb/leveldb')
 const World = require('./world')
 
-'use strict'
 
 class WorldManager {
 

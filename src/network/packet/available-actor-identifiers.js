@@ -3,7 +3,6 @@ const fs = require('fs')
 const DataPacket = require('./packet')
 const Identifiers = require('../identifiers')
 
-'use strict'
 
 class AvailableActorIdentifiersPacket extends DataPacket {
     static NetID = Identifiers.AvailableActorIdentifiersPacket

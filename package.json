@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Basic Minecraft Bedrock Edition software ",
   "main": "bootstrap.js",
+  "engines": {
+    "node": ">=0.14"
+  },
   "scripts": {
     "start": "node bootstrap.js",
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -11,7 +11,6 @@ const Vector3 = require('../math/vector3')
 const Prismarine = require('../prismarine')
 const { GameruleManager, Rules } = require('../world/gamerule-manager')
 
-'use strict'
 
 class World {
     

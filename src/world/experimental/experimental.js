@@ -6,7 +6,6 @@ const Chunk = require('../chunk/chunk')
 const BinaryStream = require('jsbinaryutils')
 const SubChunk = require('../chunk/sub-chunk')
 
-'use strict'
 
 class Experimental extends Provider {
 

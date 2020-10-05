@@ -1,4 +1,3 @@
-'use strict'
 
 /**
  * Runs a callback function in async mode

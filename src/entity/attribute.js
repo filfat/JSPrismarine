@@ -1,4 +1,3 @@
-'use strict'
 
 const AttributeIds = {
     Absorption: 'minecraft:absorption',

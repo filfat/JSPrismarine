@@ -10,7 +10,6 @@ const Identifiers = require('./network/identifiers')
 const WorldManager = require('./world/world-manager')
 const PluginManager = require('./plugin/plugin-manager')
 
-'use strict'
 
 class Prismarine {
 

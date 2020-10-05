@@ -1,5 +1,3 @@
-'use strict' 
-
 class Vector3 {
 
     /** @type {number} */

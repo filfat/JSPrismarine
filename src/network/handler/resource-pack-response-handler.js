@@ -9,7 +9,6 @@ const Player = require('../../player')
 const LOGGER = require('../../utils/logger')
 const Prismarine = require('../../prismarine')
 
-'use strict'
 
 class ResourcePackResponseHandler {
     static NetID = Identifiers.ResourcePackResponsePacket
