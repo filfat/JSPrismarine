@@ -56,6 +56,7 @@ rl.on('line', (input) => {
     )
 })
 
-server.listen().catch(() => 
+server.listen().catch(() => {
     logger.error(`Cannot start the server, is it already running on the same port?`)
-)
+    process.exit(1)
+})
